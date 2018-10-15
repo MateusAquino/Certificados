@@ -1,2 +1,2 @@
-# certificados
-Certificações de cursos (+EaDs)
+# Certificados
+Todas minhas certificações de cursos (+EaDs)

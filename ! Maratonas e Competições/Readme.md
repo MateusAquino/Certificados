@@ -8,7 +8,7 @@
 
 ## Maratona de Programação (FEAU + UNIVAP)
 * Maratona VI Jr. 2017 (2º lugar)
-  - [/Feau e Univap - Maratona.pdf](Feau_e_Univap-Maratona.pdf") (Certificado)
+  - [/Feau_e_Univap-Maratona.pdf](Feau_e_Univap-Maratona.pdf") (Certificado)
   - https://web.univap.br/maratona_programacao/edicoes_anteriores/2017/ranking_junior.php
 * Maratona VII Jr. 2018 (10º lugar)
   - https://web.univap.br/maratona_programacao/ranking.php / Link obsoleto (Alternativa: Edições anteriores)

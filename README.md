@@ -1,7 +1,25 @@
-# Certificados
+# Certificações
 Todas minhas certificações de cursos (+EaDs e Eventos)
 
 ## Resumo
+### Cursos (TI):
+
+   | Órgão emissor   | Curso                                                                                | Carga horária |
+   | --------------- | ------------------------------------------------------------------------------------ | ------------- |
+   | TreinaWeb       | **Lógica de Programação**                                                   [⮚][6]  | 40 Horas      |
+   | TreinaWeb       | **Lógica de Orientação a Objetos**                                          [⮚][7]  | 40 Horas      |
+   | TreinaWeb       | **HTML5 e CSS3 - Desenvolvimento web Básico**                               [⮚][8]  | 24 Horas      |
+   | TreinaWeb       | **HTML5 e CSS3 - Desenvolvimento web Avançado**                             [⮚][9]  | 24 Horas      |
+   | SoloLearn       | **JavaScript** (Idioma do curso: <ins>Inglês</ins>)                         [⮚][10] |               |
+   | TreinaWeb       | **JavaScript Básico**                                                       [⮚][11] | 24 Horas      |
+   | TreinaWeb       | **JavaScript Intermediário**                                                [⮚][12] | 32 Horas      |
+   | SoloLearn       | **Java** (Idioma do curso: <ins>Inglês</ins>)                               [⮚][13] |               |
+   | CursoEmVideo    | **Java**                                                                    [⮚][14] |               |
+   | TreinaWeb       | **Java 10 - Orientação a Objetos**                                          [⮚][15] | 16 Horas      |
+   | Microsoft (MVA) | **Office 365**                                                              [⮚][16] |               |
+   | C O D E         | **Basic Concepts of Computer Science** (Idioma do curso: <ins>Inglês</ins>) [⮚][17] | 1 Hora        |
+   | TreinaWeb       | **RegEx - Expressões Regulares**                                            [⮚][18] | 24 Horas      |
+---
 ### Participações em Competições e Maratonas:
 
    | Evento                           | Universidade  | Ano  |
@@ -22,24 +40,6 @@ Todas minhas certificações de cursos (+EaDs e Eventos)
    | Saga        | **Modelagem 3D** [⮚][3] | 8 Horas       |
    | Softblue    | **JAVA**         [⮚][4] | 12 Horas      |
    | Softblue    | **PHP**          [⮚][5] | 12 horas      |
----  
-### Cursos (TI):
-
-   | Órgão emissor   | Curso                                                                                | Carga horária |
-   | --------------- | ------------------------------------------------------------------------------------ | ------------- |
-   | TreinaWeb       | **Lógica de Programação**                                                   [⮚][6]  | 40 Horas      |
-   | TreinaWeb       | **Lógica de Orientação a Objetos**                                          [⮚][7]  | 40 Horas      |
-   | TreinaWeb       | **HTML5 e CSS3 - Desenvolvimento web Básico**                               [⮚][8]  | 24 Horas      |
-   | TreinaWeb       | **HTML5 e CSS3 - Desenvolvimento web Avançado**                             [⮚][9]  | 24 Horas      |
-   | SoloLearn       | **JavaScript** (Idioma do curso: <ins>Inglês</ins>)                         [⮚][10] |               |
-   | TreinaWeb       | **JavaScript Básico**                                                       [⮚][11] | 24 Horas      |
-   | TreinaWeb       | **JavaScript Intermediário**                                                [⮚][12] | 32 Horas      |
-   | SoloLearn       | **Java** (Idioma do curso: <ins>Inglês</ins>)                               [⮚][13] |               |
-   | CursoEmVideo    | **Java**                                                                    [⮚][14] |               |
-   | TreinaWeb       | **Java 10 - Orientação a Objetos**                                          [⮚][15] | 16 Horas      |
-   | Microsoft (MVA) | **Office 365**                                                              [⮚][16] |               |
-   | C O D E         | **Basic Concepts of Computer Science** (Idioma do curso: <ins>Inglês</ins>) [⮚][17] | 1 Hora        |
-   | TreinaWeb       | **RegEx - Expressões Regulares**                                            [⮚][18] | 24 Horas      |
 
 [1]: !%20Maratonas%20e%20Competições/
 [2]: !%20Palestras/JugVale%20-%20Java.pdf

@@ -1,24 +1,26 @@
 # Certificações
-Todas minhas certificações de cursos (+EaDs e Eventos)
+Todas minhas certificações de cursos (+EaDs e Eventos)  
+Cursos sem carga horária `->` *tempo indefinido*  
+Avaliação Pessoal `->` *minha opinião sobre o curso*
 
 ## Resumo
 ### Cursos (TI):
 
-   | Órgão emissor      | Curso                                                                                | Carga horária |
-   | ------------------ | ------------------------------------------------------------------------------------ | ------------- |
-   | ![][sTW] TreinaWeb | **Lógica de Programação**                                                   [⮚][6]  | 40 Horas      |
-   | ![][sTW] TreinaWeb | **Lógica de Orientação a Objetos**                                          [⮚][7]  | 40 Horas      |
-   | ![][sTW] TreinaWeb | **HTML5 e CSS3 - Desenvolvimento web Básico**                               [⮚][8]  | 24 Horas      |
-   | ![][sTW] TreinaWeb | **HTML5 e CSS3 - Desenvolvimento web Avançado**                             [⮚][9]  | 24 Horas      |
-   | ![][sSL] SoloLearn | **JavaScript** (Idioma do curso: <ins>Inglês</ins>)                         [⮚][10] |               |
-   | ![][sTW] TreinaWeb | **JavaScript Básico**                                                       [⮚][11] | 24 Horas      |
-   | ![][sTW] TreinaWeb | **JavaScript Intermediário**                                                [⮚][12] | 32 Horas      |
-   | ![][sSL] SoloLearn | **Java** (Idioma do curso: <ins>Inglês</ins>)                               [⮚][13] |               |
-   | CursoEmVideo       | **Java**                                                                    [⮚][14] |               |
-   | ![][sTW] TreinaWeb | **Java 10 - Orientação a Objetos**                                          [⮚][15] | 16 Horas      |
-   | Microsoft (MVA)    | **Office 365**                                                              [⮚][16] |               |
-   | C O D E            | **Basic Concepts of Computer Science** (Idioma do curso: <ins>Inglês</ins>) [⮚][17] | 1 Hora        |
-   | ![][sTW] TreinaWeb | **RegEx - Expressões Regulares**                                            [⮚][18] | 24 Horas      |
+   | Órgão emissor            | Curso                                                                | Carga horária | Avaliação Pessoal |
+   | ------------------------ | -------------------------------------------------------------------- | ------------- | ----------------- |
+   | ![][sTW] TreinaWeb       | **Lógica de Programação**                                   [⮚][6]  | 40 Horas      | ![][nota7]        |
+   | ![][sTW] TreinaWeb       | **Lógica de Orientação a Objetos**                          [⮚][7]  | 40 Horas      | ![][nota9]        |
+   | ![][sTW] TreinaWeb       | **HTML5 e CSS3 - Desenvolvimento web Básico**               [⮚][8]  | 24 Horas      | ![][nota5]        |
+   | ![][sTW] TreinaWeb       | **HTML5 e CSS3 - Desenvolvimento web Avançado**             [⮚][9]  | 24 Horas      | ![][nota7]        |
+   | ![][sSL] SoloLearn       | **JavaScript** ![][iUS] (*Inglês*)                          [⮚][10] |               | ![][nota4]        |
+   | ![][sTW] TreinaWeb       | **JavaScript Básico**                                       [⮚][11] | 24 Horas      | ![][nota6]        |
+   | ![][sTW] TreinaWeb       | **JavaScript Intermediário**                                [⮚][12] | 32 Horas      | ![][nota7]        |
+   | ![][sSL] SoloLearn       | **Java** ![][iUS] (*Inglês*)                                [⮚][13] |               | ![][nota5]        |
+   | ![][sCV] CursoEmVideo    | **Java**                                                    [⮚][14] |               | ![][nota9]        |
+   | ![][sTW] TreinaWeb       | **Java 10 - Orientação a Objetos**                          [⮚][15] | 16 Horas      | ![][nota10]       |
+   | ![][sMS] Microsoft (MVA) | **Office 365**                                              [⮚][16] |               | ![][nota5]        |
+   | ![][sCD] C O D E         | **Basic Concepts of Computer Science** ![][iUS] (*Inglês*)  [⮚][17] | 1 Hora        | ![][nota2]        |
+   | ![][sTW] TreinaWeb       | **RegEx - Expressões Regulares**                            [⮚][18] | 24 Horas      | ![][nota7]        |
 
 ---
 ### Participações em Competições e Maratonas:
@@ -67,3 +69,19 @@ Todas minhas certificações de cursos (+EaDs e Eventos)
 
 [sTW]: i/treinaweb19.png
 [sSL]: i/sololearn19.png
+[sCD]: i/code19.png
+[sCV]: i/cursoemvideo19.png
+[sMS]: i/microsoft19.png
+
+[iUS]: i/us19.png
+
+[nota1]: i/r1.png
+[nota2]: i/r2.png
+[nota3]: i/r3.png
+[nota4]: i/r4.png
+[nota5]: i/r5.png
+[nota6]: i/r6.png
+[nota7]: i/r7.png
+[nota8]: i/r8.png
+[nota9]: i/r9.png
+[nota10]: i/r10.png

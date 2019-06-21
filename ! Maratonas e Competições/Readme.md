@@ -10,5 +10,9 @@
 * Maratona VI Jr. 2017 (2º lugar)
   - [/FEAU_e_Univap-Maratona.pdf](FEAU_e_Univap-Maratona.pdf) (Certificado)
   - https://web.univap.br/maratona_programacao/edicoes_anteriores/2017/ranking_junior.php
+
 * Maratona VII Jr. 2018 (10º lugar)
+  - https://web.univap.br/maratona_programacao/edicoes_anteriores/2018/ranking_junior.php
+
+* Maratona VIII Jr. 2019 (1º lugar)
   - https://web.univap.br/maratona_programacao/ranking.php / Link obsoleto (Alternativa: Edições anteriores)

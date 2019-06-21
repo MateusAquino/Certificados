@@ -1,14 +1,15 @@
 # Certificações
 Todas minhas certificações de cursos (+EaDs e Eventos)  
 Cursos sem carga horária `->` *tempo indefinido*  
-Avaliação Pessoal `->` *minha opinião sobre o curso*
+Avaliação Pessoal `->` *minha opinião sobre o curso*  
+Clique nas setas (**⮚**) para conferir o certificado/comprovante
 
 ## Resumo
 ### Cursos (TI):
 
    | Órgão emissor            | Curso                                                                | Carga horária | Avaliação Pessoal |
    | ------------------------ | -------------------------------------------------------------------- | ------------- | ----------------- |
-   | ![][sTW] TreinaWeb       | **Lógica de Programação**                                   [⮚][6]  | 40 Horas      | ![][nota7]        |
+   | ![][sTW] TreinaWeb       | **Lógica de Programação**                                   [⮚][6]  | 40 Horas      | ![][nota8]        |
    | ![][sTW] TreinaWeb       | **Lógica de Orientação a Objetos**                          [⮚][7]  | 40 Horas      | ![][nota9]        |
    | ![][sTW] TreinaWeb       | **HTML5 e CSS3 - Desenvolvimento web Básico**               [⮚][8]  | 24 Horas      | ![][nota5]        |
    | ![][sTW] TreinaWeb       | **HTML5 e CSS3 - Desenvolvimento web Avançado**             [⮚][9]  | 24 Horas      | ![][nota7]        |
@@ -34,17 +35,17 @@ Avaliação Pessoal `->` *minha opinião sobre o curso*
 
 ---
 ### Palestras:
-   | Organização | Conteúdo         | Carga horária |
-   | ----------- | ---------------- | ------------- |
-   | JugVale     | **Java** [⮚][2] | 8 Horas       |
+   | Organização | Conteúdo         | Carga horária | Avaliação Pessoal |
+   | ----------- | ---------------- | ------------- | ----------------- |
+   | JugVale     | **Java** [⮚][2] | 8 Horas       | ![][nota9]        | 
 
 ---
 ### Academias e Oficinas:
-   | Organização | Conteúdo                 | Carga horária |
-   | ----------- | ------------------------ | ------------- |
-   | Saga        | **Modelagem 3D** [⮚][3] | 8 Horas       |
-   | Softblue    | **JAVA**         [⮚][4] | 12 Horas      |
-   | Softblue    | **PHP**          [⮚][5] | 12 horas      |
+   | Organização       | Conteúdo                 | Carga horária | Avaliação Pessoal |
+   | ----------------- | ------------------------ | ------------- | ----------------- |
+   | ![][sSG] Saga     | **Modelagem 3D** [⮚][3] | 8 Horas       | ![][nota5]        |
+   | ![][sSB] Softblue | **JAVA**         [⮚][4] | 12 Horas      | ![][nota9]       |
+   | ![][sSB] Softblue | **PHP**          [⮚][5] | 12 horas      | ![][nota10]        |
 
 
 <!-- Links/Certificados -->
@@ -67,21 +68,23 @@ Avaliação Pessoal `->` *minha opinião sobre o curso*
 [17]: Ciência%20da%20Computação/Geral/C%20O%20D%20E%20-%20Hour%20of%20code.pdf
 [18]: Ciência%20da%20Computação/Regex/TreinaWeb%20-%20Regex.pdf
 
-[sTW]: i/treinaweb19.png
-[sSL]: i/sololearn19.png
+[sTW]: i/treina_web19.png
+[sSL]: i/solo_learn19.png
 [sCD]: i/code19.png
 [sCV]: i/cursoemvideo19.png
 [sMS]: i/microsoft19.png
+[sSG]: i/saga19.png
+[sSB]: i/softblue19.png
 
 [iUS]: i/us19.png
 
-[nota1]: i/r1.png
-[nota2]: i/r2.png
-[nota3]: i/r3.png
-[nota4]: i/r4.png
-[nota5]: i/r5.png
-[nota6]: i/r6.png
-[nota7]: i/r7.png
-[nota8]: i/r8.png
-[nota9]: i/r9.png
-[nota10]: i/r10.png
+[nota1]: i/n1.png
+[nota2]: i/n2.png
+[nota3]: i/n3.png
+[nota4]: i/n4.png
+[nota5]: i/n5.png
+[nota6]: i/n6.png
+[nota7]: i/n7.png
+[nota8]: i/n8.png
+[nota9]: i/n9.png
+[nota10]: i/n10.png

@@ -1,8 +1,8 @@
 # Certificações
-Todas minhas certificações de cursos (+EaDs e Eventos)  
-Cursos sem carga horária `->` *tempo indefinido*  
-Avaliação Pessoal `->` *minha opinião sobre o curso*  
-Clique nas setas (**⮚**) para conferir o certificado/comprovante
+Todas minhas certificações de cursos (+EaDs e Eventos).  
+Cursos sem carga horária `->` *tempo indefinido*.  
+Avaliação Pessoal `->` *minha opinião sobre o curso*.  
+Clique nas setas (**⮚**) para conferir o certificado/comprovante.
 
 ## Resumo
 ### Cursos (TI):
@@ -25,13 +25,15 @@ Clique nas setas (**⮚**) para conferir o certificado/comprovante
 
 ---
 ### Participações em Competições e Maratonas:
+Clique [aqui ⮚][1] para ver todas as colocações e certificados.
 
    | Evento                           | Universidade  | Ano  |
    | -------------------------------- | ------------- | ---- |
-   | Olimpiada de Programação [⮚][1] | UNIVAP        | 2017 |
+   | Olimpiada de Programação [⮚][1] | UNIVAP        | 2017 | 
    | Olimpiada de Programação [⮚][1] | UNIVAP        | 2018 |
    | Maratona de Programação  [⮚][1] | FEAU e UNIVAP | 2017 |
    | Maratona de Programação  [⮚][1] | FEAU e UNIVAP | 2018 |
+   | Maratona de Programação  [⮚][1] | FEAU e UNIVAP | 2019 |
 
 ---
 ### Palestras:

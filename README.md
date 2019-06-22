@@ -56,10 +56,9 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas
 ### Outros
   | Organização | Nome                                     | Descrição                                                            | Ano  |
   | ----------- | ---------------------------------------- | -------------------------------------------------------------------- | ---- |
-  | Nasa        | Hot Ticket [][iUS] (*Inglês*) [⮚][24]   | Certificado de apoio à primeira missão aeroespacial na superfície solar (Sonda: Probe)                                                                                                                    | 2018 |
+  | Nasa        | Hot Ticket ![][iUS] (*Inglês*) [⮚][24]  | Certificado de apoio à primeira missão aeroespacial na superfície solar (Sonda: Probe)                                                                                                                    | 2018 |
   | UNIVAP      | Grupo de Estudos - Ensino Médio [⮚][25] | Certificado de monitoria nas matérias:<br> • Física<br> • Matemática  | 2017 |
   | UNIVAP      | Grupo de Estudos - Ensino Médio [⮚][25] | Certificado de monitoria nas matérias:<br> • Física<br> • Matemática  | 2018 |
-
 
 <!-- Links/Certificados -->
 [1]: !%20Maratonas%20e%20Competições/

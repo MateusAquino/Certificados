@@ -4,54 +4,61 @@ Avaliação Pessoal `->` ***minha** opinião sobre o curso ou palestra*.
 Clique nas setas (**⮚**) para conferir o certificado/comprovante.
 
 ## Resumo
-### Cursos (TI):
-
-  | Órgão emissor            | Curso                                                                | Carga horária | Avaliação Pessoal |
-  | ------------------------ | -------------------------------------------------------------------- | ------------- | ----------------- |
-  | ![][sTW] TreinaWeb       | **Lógica de Programação**                                   [⮚][6]  | 40 Horas           | ![][nota8]   |
-  | ![][sTW] TreinaWeb       | **Lógica de Orientação a Objetos**                          [⮚][7]  | 40 Horas           | ![][nota9]   |
-  | ![][sTW] TreinaWeb       | **HTML5 e CSS3 - Desenvolvimento web Básico**               [⮚][8]  | 24 Horas           | ![][nota5]   |
-  | ![][sTW] TreinaWeb       | **HTML5 e CSS3 - Desenvolvimento web Avançado**             [⮚][9]  | 24 Horas           | ![][nota7]   |
-  | ![][sSL] SoloLearn       | **JavaScript** ![][iUS] (*Inglês*)                          [⮚][10] | *tempo indefinido* | ![][nota4]   |  
-  | ![][sTW] TreinaWeb       | **JavaScript Básico**                                       [⮚][11] | 24 Horas           | ![][nota6]   |
-  | ![][sTW] TreinaWeb       | **JavaScript Intermediário**                                [⮚][12] | 32 Horas           | ![][nota7]   |
-  | ![][sTW] TreinaWeb       | **JavaScript Avançado**                                     [⮚][19] | 40 Horas           | ![][nota10]  |
-  | ![][sSL] SoloLearn       | **Java** ![][iUS] (*Inglês*)                                [⮚][13] | *tempo indefinido* | ![][nota5]   |
-  | ![][sCV] CursoEmVideo    | **Java**                                                    [⮚][14] | *tempo indefinido* | ![][nota9]   |
-  | ![][sTW] TreinaWeb       | **Java 10 - Orientação a Objetos**                          [⮚][15] | 16 Horas           | ![][nota10]  |
-  | ![][sSL] SoloLearn       | **Python 3** ![][iUS] (*Inglês*)                            [⮚][20] | *tempo indefinido* | ![][nota8]   |
-  | ![][sMS] Microsoft (MVA) | **Office 365**                                              [⮚][16] | *tempo indefinido* | ![][nota5]   |
-  | ![][sCD] C O D E         | **Basic Concepts of Computer Science** ![][iUS] (*Inglês*)  [⮚][17] | 1 Hora             | ![][nota2]   |
-  | ![][sTW] TreinaWeb       | **RegEx - Expressões Regulares**                            [⮚][18] | 24 Horas           | ![][nota7]   |
-
----
-### Participações em Competições e Maratonas:
-Clique [aqui ⮚][1] para ver todas as colocações e certificados.
-
-   | Evento                           | Universidade  | Ano  |
-   | -------------------------------- | ------------- | ---- |
-   | Olimpiada de Programação [⮚][1] | UNIVAP        | 2017 | 
-   | Olimpiada de Programação [⮚][1] | UNIVAP        | 2018 |
-   | Maratona de Programação  [⮚][1] | FEAU e UNIVAP | 2017 |
-   | Maratona de Programação  [⮚][1] | FEAU e UNIVAP | 2018 |
-   | Maratona de Programação  [⮚][1] | FEAU e UNIVAP | 2019 |
+### Cursos (TI)
+  | Órgão emissor          | Curso                                                                | Carga horária | Avaliação Pessoal |
+  | ---------------------- | -------------------------------------------------------------------- | ------------- | ----------------- |
+  | ![][sTW] TreinaWeb     | **Lógica de Programação**                                   [⮚][6]  | 40 Horas           | ![][nota8]   |
+  | ![][sTW] TreinaWeb     | **Lógica de Orientação a Objetos**                          [⮚][7]  | 40 Horas           | ![][nota9]   |
+  | ![][sTW] TreinaWeb     | **HTML5 e CSS3 - Desenvolvimento web Básico**               [⮚][8]  | 24 Horas           | ![][nota5]   |
+  | ![][sTW] TreinaWeb     | **HTML5 e CSS3 - Desenvolvimento web Avançado**             [⮚][9]  | 24 Horas           | ![][nota7]   |
+  | ![][sSL] SoloLearn     | **JavaScript** ![][iUS] (*Inglês*)                          [⮚][10] | *tempo indefinido* | ![][nota4]   |  
+  | ![][sTW] TreinaWeb     | **JavaScript Básico**                                       [⮚][11] | 24 Horas           | ![][nota6]   |
+  | ![][sTW] TreinaWeb     | **JavaScript Intermediário**                                [⮚][12] | 32 Horas           | ![][nota7]   |
+  | ![][sTW] TreinaWeb     | **JavaScript Avançado**                                     [⮚][19] | 40 Horas           | ![][nota10]  |
+  | ![][sSL] SoloLearn     | **Java** ![][iUS] (*Inglês*)                                [⮚][13] | *tempo indefinido* | ![][nota5]   |
+  | ![][sCV] CursoEmVideo  | **Java**                                                    [⮚][14] | *tempo indefinido* | ![][nota9]   |
+  | ![][sTW] TreinaWeb     | **Java 10 - Orientação a Objetos**                          [⮚][15] | 16 Horas           | ![][nota10]  |
+  | ![][sSL] SoloLearn     | **Python 3** ![][iUS] (*Inglês*)                            [⮚][20] | *tempo indefinido* | ![][nota8]   |
+  | ![][sMS] Microsoft MVA | **Office 365**                                              [⮚][16] | *tempo indefinido* | ![][nota5]   |
+  | ![][sCD] C O D E       | **Basic Concepts of Computer Science** ![][iUS] (*Inglês*)  [⮚][17] | 1 Hora             | ![][nota2]   |
+  | ![][sTW] TreinaWeb     | **RegEx - Expressões Regulares**                            [⮚][18] | 24 Horas           | ![][nota7]   |
 
 ---
-### Palestras:
-   | Organização      | Conteúdo                                         | Carga horária | Avaliação Pessoal |
-   | ---------------- | ------------------------------------------------ | ------------- | ----------------- |
-   | ![][sJG] JugVale | **Java** [⮚][2]                                 | 8 Horas       | ![][nota9]        |
-   | ![][sFE] FEAU    | **SEAU** - Aprovação de Projetos em SJC [⮚][21] | 2 Horas       | ![][nota8]        |
-   | ![][sFE] FEAU    | **SEAU** - Usinagem Aeroespacial        [⮚][22] | 2 Horas       | ![][nota6]        |
-   | ![][sFE] FEAU    | **SEAU** - Segurança da Informação      [⮚][23] | 2 Horas       | ![][nota10]       |
+### Participações em Competições e Maratonas
+Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas]  
+
+  | Evento                           | Universidade  | Ano  |
+  | -------------------------------- | ------------- | ---- |
+  | Olimpiada de Programação [⮚][1] | UNIVAP        | 2017 | 
+  | Olimpiada de Programação [⮚][1] | UNIVAP        | 2018 |
+  | Maratona de Programação  [⮚][1] | FEAU e UNIVAP | 2017 |
+  | Maratona de Programação  [⮚][1] | FEAU e UNIVAP | 2018 |
+  | Maratona de Programação  [⮚][1] | FEAU e UNIVAP | 2019 |
 
 ---
-### Academias e Oficinas:
-   | Organização       | Conteúdo                 | Carga horária | Avaliação Pessoal |
-   | ----------------- | ------------------------ | ------------- | ----------------- |
-   | ![][sSG] Saga     | **Modelagem 3D** [⮚][3] | 8 Horas       | ![][nota5]        |
-   | ![][sSB] Softblue | **JAVA**         [⮚][4] | 12 Horas      | ![][nota9]        |
-   | ![][sSB] Softblue | **PHP**          [⮚][5] | 12 horas      | ![][nota10]       |
+### Palestras
+  | Organização      | Conteúdo                                         | Carga horária | Avaliação Pessoal |
+  | ---------------- | ------------------------------------------------ | ------------- | ----------------- |
+  | ![][sJG] JugVale | **Java** [⮚][2]                                 | 8 Horas       | ![][nota9]        |
+  | ![][sFE] FEAU    | **SEAU** - Aprovação de Projetos em SJC [⮚][21] | 2 Horas       | ![][nota8]        |
+  | ![][sFE] FEAU    | **SEAU** - Usinagem Aeroespacial        [⮚][22] | 2 Horas       | ![][nota6]        |
+  | ![][sFE] FEAU    | **SEAU** - Segurança da Informação      [⮚][23] | 2 Horas       | ![][nota10]       |
+
+---
+### Academias e Oficinas
+  | Organização       | Conteúdo                 | Carga horária | Avaliação Pessoal |
+  | ----------------- | ------------------------ | ------------- | ----------------- |
+  | ![][sSG] Saga     | **Modelagem 3D** [⮚][3] | 8 Horas       | ![][nota5]        |
+  | ![][sSB] Softblue | **JAVA**         [⮚][4] | 12 Horas      | ![][nota9]        |
+  | ![][sSB] Softblue | **PHP**          [⮚][5] | 12 horas      | ![][nota10]       |
+   
+---
+### Outros
+  | Organização | Nome                                   | Descrição                                                              | Ano  |
+  | ----------- | -------------------------------------- | ---------------------------------------------------------------------- | ---- |
+  | Nasa        | Hot Ticket [][iUS] (*Inglês*) [⮚][24] | Certificado de apoio à primeira missão aeroespacial na superfície solar (Sonda: Probe)                                                                                                                            | 2018 |
+  | UNIVAP      | Grupo de Estudos [⮚][25]              | Certificado de monitoria nas matérias:<br>  • Física<br>  • Matemática  | 2017 |
+  | UNIVAP      | Grupo de Estudos [⮚][25]              | Certificado de monitoria nas matérias:<br>  • Física<br>  • Matemática  | 2018 |
 
 
 <!-- Links/Certificados -->
@@ -78,6 +85,9 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados.
 [21]: !%20Palestras/SEAU%20-%20Aprovação%20Projetos%20(SJC).pdf
 [22]: !%20Palestras/SEAU%20-%20Usinagem%20Aeroespacial.pdf
 [23]: !%20Palestras/SEAU%20-%20Segurança%20da%20Informação.pdf
+[24]: Miscelânea/Nasa%20-%20Hot%20Ticket.pdf
+[25]: Miscelânea/Certificado-Monitoria-2017-2018.pdf
+
 
 [sTW]: i/treina_web19.png
 [sSL]: i/solo_learn19.png
@@ -101,3 +111,5 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados.
 [nota8]: i/n8.png
 [nota9]: i/n9.png
 [nota10]: i/n10.png
+
+[medalhas]: i/medalhas.svg

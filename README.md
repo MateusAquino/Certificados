@@ -1,27 +1,28 @@
 # Certificações
 Todas minhas certificações de cursos (+EaDs e Eventos).  
-Cursos sem carga horária `->` *tempo indefinido*.  
-Avaliação Pessoal `->` *minha opinião sobre o curso*.  
+Avaliação Pessoal `->` ***minha** opinião sobre o curso ou palestra*.  
 Clique nas setas (**⮚**) para conferir o certificado/comprovante.
 
 ## Resumo
 ### Cursos (TI):
 
-   | Órgão emissor            | Curso                                                                | Carga horária | Avaliação Pessoal |
-   | ------------------------ | -------------------------------------------------------------------- | ------------- | ----------------- |
-   | ![][sTW] TreinaWeb       | **Lógica de Programação**                                   [⮚][6]  | 40 Horas      | ![][nota8]        |
-   | ![][sTW] TreinaWeb       | **Lógica de Orientação a Objetos**                          [⮚][7]  | 40 Horas      | ![][nota9]        |
-   | ![][sTW] TreinaWeb       | **HTML5 e CSS3 - Desenvolvimento web Básico**               [⮚][8]  | 24 Horas      | ![][nota5]        |
-   | ![][sTW] TreinaWeb       | **HTML5 e CSS3 - Desenvolvimento web Avançado**             [⮚][9]  | 24 Horas      | ![][nota7]        |
-   | ![][sSL] SoloLearn       | **JavaScript** ![][iUS] (*Inglês*)                          [⮚][10] |               | ![][nota4]        |
-   | ![][sTW] TreinaWeb       | **JavaScript Básico**                                       [⮚][11] | 24 Horas      | ![][nota6]        |
-   | ![][sTW] TreinaWeb       | **JavaScript Intermediário**                                [⮚][12] | 32 Horas      | ![][nota7]        |
-   | ![][sSL] SoloLearn       | **Java** ![][iUS] (*Inglês*)                                [⮚][13] |               | ![][nota5]        |
-   | ![][sCV] CursoEmVideo    | **Java**                                                    [⮚][14] |               | ![][nota9]        |
-   | ![][sTW] TreinaWeb       | **Java 10 - Orientação a Objetos**                          [⮚][15] | 16 Horas      | ![][nota10]       |
-   | ![][sMS] Microsoft (MVA) | **Office 365**                                              [⮚][16] |               | ![][nota5]        |
-   | ![][sCD] C O D E         | **Basic Concepts of Computer Science** ![][iUS] (*Inglês*)  [⮚][17] | 1 Hora        | ![][nota2]        |
-   | ![][sTW] TreinaWeb       | **RegEx - Expressões Regulares**                            [⮚][18] | 24 Horas      | ![][nota7]        |
+  | Órgão emissor            | Curso                                                                | Carga horária | Avaliação Pessoal |
+  | ------------------------ | -------------------------------------------------------------------- | ------------- | ----------------- |
+  | ![][sTW] TreinaWeb       | **Lógica de Programação**                                   [⮚][6]  | 40 Horas           | ![][nota8]   |
+  | ![][sTW] TreinaWeb       | **Lógica de Orientação a Objetos**                          [⮚][7]  | 40 Horas           | ![][nota9]   |
+  | ![][sTW] TreinaWeb       | **HTML5 e CSS3 - Desenvolvimento web Básico**               [⮚][8]  | 24 Horas           | ![][nota5]   |
+  | ![][sTW] TreinaWeb       | **HTML5 e CSS3 - Desenvolvimento web Avançado**             [⮚][9]  | 24 Horas           | ![][nota7]   |
+  | ![][sSL] SoloLearn       | **JavaScript** ![][iUS] (*Inglês*)                          [⮚][10] | *tempo indefinido* | ![][nota4]   |  
+  | ![][sTW] TreinaWeb       | **JavaScript Básico**                                       [⮚][11] | 24 Horas           | ![][nota6]   |
+  | ![][sTW] TreinaWeb       | **JavaScript Intermediário**                                [⮚][12] | 32 Horas           | ![][nota7]   |
+  | ![][sTW] TreinaWeb       | **JavaScript Avançado**                                     [⮚][19] | 40 Horas           | ![][nota10]  |
+  | ![][sSL] SoloLearn       | **Java** ![][iUS] (*Inglês*)                                [⮚][13] | *tempo indefinido* | ![][nota5]   |
+  | ![][sCV] CursoEmVideo    | **Java**                                                    [⮚][14] | *tempo indefinido* | ![][nota9]   |
+  | ![][sTW] TreinaWeb       | **Java 10 - Orientação a Objetos**                          [⮚][15] | 16 Horas           | ![][nota10]  |
+  | ![][sSL] SoloLearn       | **Python 3** ![][iUS] (*Inglês*)                            [⮚][20] | *tempo indefinido* | ![][nota8]   |
+  | ![][sMS] Microsoft (MVA) | **Office 365**                                              [⮚][16] | *tempo indefinido* | ![][nota5]   |
+  | ![][sCD] C O D E         | **Basic Concepts of Computer Science** ![][iUS] (*Inglês*)  [⮚][17] | 1 Hora             | ![][nota2]   |
+  | ![][sTW] TreinaWeb       | **RegEx - Expressões Regulares**                            [⮚][18] | 24 Horas           | ![][nota7]   |
 
 ---
 ### Participações em Competições e Maratonas:
@@ -37,17 +38,20 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados.
 
 ---
 ### Palestras:
-   | Organização | Conteúdo         | Carga horária | Avaliação Pessoal |
-   | ----------- | ---------------- | ------------- | ----------------- |
-   | JugVale     | **Java** [⮚][2] | 8 Horas       | ![][nota9]        | 
+   | Organização      | Conteúdo                                         | Carga horária | Avaliação Pessoal |
+   | ---------------- | ------------------------------------------------ | ------------- | ----------------- |
+   | ![][sJG] JugVale | **Java** [⮚][2]                                 | 8 Horas       | ![][nota9]        |
+   | ![][sFE] FEAU    | **SEAU** - Aprovação de Projetos em SJC [⮚][21] | 2 Horas       | ![][nota8]        |
+   | ![][sFE] FEAU    | **SEAU** - Usinagem Aeroespacial        [⮚][22] | 2 Horas       | ![][nota6]        |
+   | ![][sFE] FEAU    | **SEAU** - Segurança da Informação      [⮚][23] | 2 Horas       | ![][nota10]       |
 
 ---
 ### Academias e Oficinas:
    | Organização       | Conteúdo                 | Carga horária | Avaliação Pessoal |
    | ----------------- | ------------------------ | ------------- | ----------------- |
    | ![][sSG] Saga     | **Modelagem 3D** [⮚][3] | 8 Horas       | ![][nota5]        |
-   | ![][sSB] Softblue | **JAVA**         [⮚][4] | 12 Horas      | ![][nota9]       |
-   | ![][sSB] Softblue | **PHP**          [⮚][5] | 12 horas      | ![][nota10]        |
+   | ![][sSB] Softblue | **JAVA**         [⮚][4] | 12 Horas      | ![][nota9]        |
+   | ![][sSB] Softblue | **PHP**          [⮚][5] | 12 horas      | ![][nota10]       |
 
 
 <!-- Links/Certificados -->
@@ -69,6 +73,11 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados.
 [16]: Ciência%20da%20Computação/Office/MVA%20-%20Office%20365.pdf
 [17]: Ciência%20da%20Computação/Geral/C%20O%20D%20E%20-%20Hour%20of%20code.pdf
 [18]: Ciência%20da%20Computação/Regex/TreinaWeb%20-%20Regex.pdf
+[19]: Ciência%20da%20Computação/JavaScript/TreinaWeb%20-%20JavaScript%20(avançado).pdf
+[20]: Ciência%20da%20Computação/Python/SoloLearn%20-%20Python.pdf
+[21]: !%20Palestras/SEAU%20-%20Aprovação%20Projetos%20(SJC).pdf
+[22]: !%20Palestras/SEAU%20-%20Usinagem%20Aeroespacial.pdf
+[23]: !%20Palestras/SEAU%20-%20Segurança%20da%20Informação.pdf
 
 [sTW]: i/treina_web19.png
 [sSL]: i/solo_learn19.png
@@ -77,6 +86,8 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados.
 [sMS]: i/microsoft19.png
 [sSG]: i/saga19.png
 [sSB]: i/softblue19.png
+[sJG]: i/jug19.png
+[sFE]: i/feau19.png
 
 [iUS]: i/us19.png
 

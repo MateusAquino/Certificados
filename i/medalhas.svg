@@ -4,7 +4,7 @@
      xmlns:xlink="http://www.w3.org/1999/xlink"
      width="100" height="20"
 >
-  <text font-size="16" x="7" y="7">
+  <text font-size="16" x="6" y="9">
     <tspan fill="#FFCC00">• 1</tspan>
     <tspan fill="#B4B8BC">• 2</tspan>
     <tspan fill="#D1A684">• 0</tspan>

@@ -27,13 +27,13 @@ Clique nas setas (**⮚**) para conferir o certificado/comprovante.
 ### Participações em Competições e Maratonas
 Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas]  
 
-  | Evento                           | Universidade  | Ano  |
-  | -------------------------------- | ------------- | ---- |
-  | Olimpiada de Programação [⮚][1] | UNIVAP        | 2017 | 
-  | Olimpiada de Programação [⮚][1] | UNIVAP        | 2018 |
-  | Maratona de Programação  [⮚][1] | FEAU e UNIVAP | 2017 |
-  | Maratona de Programação  [⮚][1] | FEAU e UNIVAP | 2018 |
-  | Maratona de Programação  [⮚][1] | FEAU e UNIVAP | 2019 |
+  | Evento                               | Universidade  | Ano  |
+  | ------------------------------------ | ------------- | ---- |
+  | **Olimpiada de Programação** [⮚][1] | UNIVAP        | 2017 | 
+  | **Olimpiada de Programação** [⮚][1] | UNIVAP        | 2018 |
+  | **Maratona de Programação**  [⮚][1] | FEAU e UNIVAP | 2017 |
+  | **Maratona de Programação**  [⮚][1] | FEAU e UNIVAP | 2018 |
+  | **Maratona de Programação**  [⮚][1] | FEAU e UNIVAP | 2019 |
 
 ---
 ### Palestras
@@ -54,11 +54,11 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas
    
 ---
 ### Outros
-  | Organização | Nome                                     | Descrição                                                            | Ano  |
-  | ----------- | ---------------------------------------- | -------------------------------------------------------------------- | ---- |
-  | Nasa        | Hot Ticket ![][iUS] (*Inglês*) [⮚][24]  | Certificado de apoio à primeira missão aeroespacial na superfície solar (Sonda: Probe)                                                                                                                    | 2018 |
-  | UNIVAP      | Grupo de Estudos - Ensino Médio [⮚][25] | Certificado de monitoria nas matérias:<br> • Física<br> • Matemática  | 2017 |
-  | UNIVAP      | Grupo de Estudos - Ensino Médio [⮚][25] | Certificado de monitoria nas matérias:<br> • Física<br> • Matemática  | 2018 |
+  | Organização | Nome                                        | Descrição                                                         | Ano  |
+  | ----------- | ------------------------------------------- | ----------------------------------------------------------------- | ---- |
+  | Nasa        | **Hot Ticket** ![][iUS] (*Inglês*) [⮚][24] | Certificado de apoio à primeira missão aeroespacial na superfície solar (Sonda: Probe)                                                                                                                    | 2018 |
+  | UNIVAP      | **Grupo de Estudos** - Ensino Médio [⮚][25]| Certificado de monitoria nas matérias:<br>• Física<br>• Matemática | 2017 |
+  | UNIVAP      | **Grupo de Estudos** - Ensino Médio [⮚][25]| Certificado de monitoria nas matérias:<br>• Física<br>• Matemática | 2018 |
 
 <!-- Links/Certificados -->
 [1]: !%20Maratonas%20e%20Competições/

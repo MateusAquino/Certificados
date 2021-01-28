@@ -54,11 +54,11 @@ As bandeiras ![][iUS] representam cursos no idioma Inglês.
 | Órgão emissor                                | Curso                                                                                   | Carga horária      | Avaliação Pessoal |
 | -------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------ | ----------------- |
 | ![][sPM] Postgraduate Institute for Medicine | ![][i33] **SBV – Suporte Básico de Vida - CETS** ![][iUS] [Card][33c][⮚][33]            | *indefinido*       | ![][nota9]        |
-| ![][sIJ] INIC 2020                           | ![][i50] **Técnica de Caracterização** - Microscopia Eletrônica de Varredura** [⮚][50]  | 2 Horas            | ![][nota8]        |
+| ![][sIJ] INIC 2020                           | ![][i50] **Técnica de Caracterização** - Microscopia Eletrônica de Varredura [⮚][50]    | 2 Horas            | ![][nota8]        |
 | ![][sUE] UNIEURO 2020                        | ![][i45] II Mostra Científica UNIEURO 2020 [⮚][45]                                      | 16 Horas           | ![][nota9]        |
 | ![][sAB] Academia Brasileira de Neurocirurgia| ![][i44] I Simpósio Neuroclínico e Neurocirúrgico do AVE [⮚][44]                        | 12 Horas           | ![][nota9]        |
 | ![][sGV] Conselho Regional de Biomedicina    | ![][i43] **O Biomédico como Neurocientista** - Transplante de células-troncos neurais para regenerar a medula espinhal após trauma [⮚][43]                                                                                                                                            | 2 Horas            | ![][nota10]        |
-| ![][sUN] LANF (UNIVAP)                       | ![][i47] **Liga Acadêmica Neurofuncional**<br> - AVE: Revisão da fisiopatologia [⮚][46]<br> - AVE: Tratamento Fisioterapêutico [⮚][47]<br> - AVE: Sequelas [⮚][48]<br> - Manejo Clínico e Fisioterapêutico da Espasticidade [⮚][49] | 2 Horas<br>2 Horas<br>2 Horas<br>3 Horas      | ![][nota10]        |
+| ![][sUN] LANF (UNIVAP)                       | ![][i47] **Liga Acadêmica Neurofuncional**<br> - AVE: Revisão da fisiopatologia [⮚][46]<br> - AVE: Tratamento Fisioterapêutico [⮚][47]<br> - AVE: Sequelas [⮚][48]<br> - Manejo Clínico e Fisioterapêutico da Espasticidade [⮚][49]                      | 2 Horas<br>2 Horas<br>2 Horas<br>3 Horas      | ![][nota10]        |
 
 ---
 ## 🥇 Participações em Competições e Maratonas
@@ -194,7 +194,7 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas
 [sCP]: i/cps19.png "CPS"
 [sGV]: i/gov19.png "CRBM 4"
 [sUE]: i/unieuro19.png "Unieuro"
-[sAB]: i/ABNc19.png "ABNc"
+[sAB]: i/ABNc.png "ABNc"
 
 <!-- Idiomas (exceto português) -->
 [iUS]: i/us19.png "Idioma do curso: Inglês"

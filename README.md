@@ -8,15 +8,15 @@ Clique nas setas (**⮚**) para conferir o certificado/comprovante;
 As bandeiras ![][iUS] representam cursos no idioma Inglês.
 
 ## 🏛 Acadêmico / Científico
-| Órgão emissor          | Certificação                                                  | Data                       |
-| ---------------------- | ------------------------------------------------------------- | -------------------------- |
-| ![][sUN] UNIVAP        | **Aluno Destaque do Curso de Informática**          [⮚][37]   | 2017-2019 (EM)             |
-| ![][sUN] UNIVAP        | **Conclusão do Ensino Médio**                       [⮚][36]   | 16/12/2019                 |
-| ![][sIJ] INICJr        | **Certificado de Participação do Congresso**        [⮚][29]   | 24/10/2019 <br> 25/10/2019 |
-| ![][sIJ] INICJr        | **Codificador de Estruturas Moleculares**           [⮚][31]   | 25/10/2019                 |
-| ![][sIJ] INICJr        | **Aplicação para Correção Automática de Gabaritos** [⮚][30]   | 24/10/2019                 |
-| ![][sDG] Duolingo      | **Duolingo Educator Training Program** ![][iUS]     [⮚][32]   | 01/06/2016                 |
-
+| Órgão emissor          | Certificação                                                      | Data                       |
+| ---------------------- | ----------------------------------------------------------------- | -------------------------- |
+| ![][sUN] UNIVAP        | **Aluno Destaque do Curso de Informática**              [⮚][37]   | 2017-2019 (EM)             |
+| ![][sUN] UNIVAP        | **Conclusão do Ensino Médio**                           [⮚][36]   | 16/12/2019                 |
+| ![][sIJ] INIC          | **Neurociência Cognitiva: Hipnose e Sugestionabilidade**[⮚][52]   | 21/10/2020                 |
+| ![][sIJ] INICJr        | **Certificado de Participação do Congresso**            [⮚][29]   | 24/10/2019 <br> 25/10/2019 |
+| ![][sIJ] INICJr        | **Codificador de Estruturas Moleculares**               [⮚][31]   | 25/10/2019                 |
+| ![][sIJ] INICJr        | **Aplicação para Correção Automática de Gabaritos**     [⮚][30]   | 24/10/2019                 |
+| ![][sDG] Duolingo      | **Duolingo Educator Training Program** ![][iUS]         [⮚][32]   | 01/06/2016                 |
 
 ## 🎓 Cursos 
 • `Avaliação Pessoal`: ***minha** opinião sobre o curso ou palestra*;   
@@ -51,9 +51,19 @@ As bandeiras ![][iUS] representam cursos no idioma Inglês.
 | ![][sLU] Lúmina (UFRGS) | ![][i28] **Introdução a Arduino**                   [⮚][28]  | 20 Horas      | ![][nota10]       |
 
 ### 🧬 Biomedicina
-| Órgão emissor                                | Curso                                                                         | Carga horária      | Avaliação Pessoal |
-| -------------------------------------------- | ----------------------------------------------------------------------------- | ------------------ | ----------------- |
-| ![][sPM] Postgraduate Institute for Medicine | ![][i33] **SBV – Suporte Básico de Vida - CETS** ![][iUS] [Card][33c][⮚][33]  | *indefinido*       | ![][nota9]        |
+| Órgão emissor                                | Curso                                                                                   | Carga horária      | Avaliação Pessoal |
+| -------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------ | ----------------- |
+| ![][sPM] Postgraduate Institute for Medicine | ![][i33] **SBV – Suporte Básico de Vida - CETS** ![][iUS] [Card][33c][⮚][33]            | *indefinido*       | ![][nota9]        |
+| ![][sIJ] INIC 2020                           | ![][i50] **Técnica de Caracterização** - Microscopia Eletrônica de Varredura** [⮚][50]  | 2 Horas            | ![][nota8]        |
+| ![][sUE] UNIEURO 2020                        | ![][i45] II Mostra Científica UNIEURO 2020 [⮚][45]                                      | 16 Horas           | ![][nota9]        |
+| ![][sAB] Academia Brasileira de Neurocirurgia| ![][i44] I Simpósio Neuroclínico e Neurocirúrgico do AVE [⮚][44]                        | 12 Horas           | ![][nota9]        |
+| ![][sGB] Conselho Regional de Biomedicina    | ![][i43] **O Biomédico como Neurocientista** - Transplante de células-troncos neurais
+ para regenerar a medula espinhal após trauma [⮚][43]                                                                              | 2 Horas            | ![][nota10]        |
+| ![][sUN] LANF (UNIVAP)                       | ![][i47] **Liga Acadêmica Neurofuncional**
+<br>                                             - AVE: Revisão da fisiopatologia [⮚][46]
+<br>                                             - AVE: Tratamento Fisioterapêutico [⮚][47]
+<br>                                             - AVE: Sequelas [⮚][48]
+<br>                                             - Manejo Clínico e Fisioterapêutico da Espasticidade [⮚][49] | 2 Horas<br>2 Horas<br>2 Horas<br>3 Horas      | ![][nota9]        |
 
 ---
 ## 🥇 Participações em Competições e Maratonas
@@ -70,28 +80,30 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas
 
 ---
 ## 💬 Palestras
-  | Organização      | Conteúdo                                                                 | Carga horária | Avaliação Pessoal |
-  | ---------------- | ------------------------------------------------------------------------ | ------------- | ----------------- |
-  | ![][sJG] JugVale | ![][i02] **Java** - 13º Encontro                                 [⮚][2]  | 8 Horas       | ![][nota9]        |
-  | ![][sJG] JugVale | ![][i27] **Java** - 14º Encontro                                 [⮚][27] | 8 Horas       | ![][nota10]       |
-  | ![][sFE] FEAU    | ![][i21] **SEAU** - Aprovação de Projetos em SJC                 [⮚][21] | 2 Horas       | ![][nota8]        |
-  | ![][sFE] FEAU    | ![][i22] **SEAU** - Usinagem Aeroespacial                        [⮚][22] | 2 Horas       | ![][nota6]        |
-  | ![][sFE] FEAU    | ![][i23] **SEAU** - Segurança da Informação                      [⮚][23] | 2 Horas       | ![][nota10]       |
-  | ![][sFE] FEAU    | ![][i34] **SEAU** - Interface Física Médica e Medicina Nuclear   [⮚][34] | 2 Horas       | ![][nota9]        |
+  | Organização         | Conteúdo                                                                 | Carga horária | Avaliação Pessoal |
+  | ------------------- | ------------------------------------------------------------------------ | ------------- | ----------------- |
+  | ![][sJG] JugVale    | ![][i02] **Java** - 13º Encontro                                 [⮚][2]  | 8 Horas       | ![][nota9]        |
+  | ![][sJG] JugVale    | ![][i27] **Java** - 14º Encontro                                 [⮚][27] | 8 Horas       | ![][nota10]       |
+  | ![][sFE] FEAU       | ![][i21] **SEAU** - Aprovação de Projetos em SJC                 [⮚][21] | 2 Horas       | ![][nota8]        |
+  | ![][sFE] FEAU       | ![][i22] **SEAU** - Usinagem Aeroespacial                        [⮚][22] | 2 Horas       | ![][nota6]        |
+  | ![][sFE] FEAU       | ![][i23] **SEAU** - Segurança da Informação                      [⮚][23] | 2 Horas       | ![][nota10]       |
+  | ![][sFE] FEAU       | ![][i34] **SEAU** - Interface Física Médica e Medicina Nuclear   [⮚][34] | 2 Horas       | ![][nota9]        |
+  | ![][sRS] Rocketseat | ![][i51] **Do While 2020**                                       [⮚][51] | 16 Horas      | ![][nota9]        |
 
 ---
 ## 📜 Academias e Oficinas
-  | Organização       | Conteúdo                 | Carga horária | Avaliação Pessoal |
-  | ----------------- | ------------------------ | ------------- | ----------------- |
-  | ![][sSG] Saga     | **Modelagem 3D**  [⮚][3] | 8 Horas       | ![][nota5]        |
-  | ![][sSB] Softblue | **JAVA**          [⮚][4] | 12 Horas      | ![][nota9]        |
-  | ![][sSB] Softblue | **PHP**           [⮚][5] | 12 horas      | ![][nota10]       |
+  | Organização         | Conteúdo                  | Carga horária | Avaliação Pessoal |
+  | ------------------- | ------------------------- | ------------- | ----------------- |
+  | ![][sSG] Saga       | **Modelagem 3D**  [⮚][3]  | 8 Horas       | ![][nota5]        |
+  | ![][sSB] Softblue   | **JAVA**          [⮚][4]  | 12 Horas      | ![][nota9]        |
+  | ![][sSB] Softblue   | **PHP**           [⮚][5]  | 12 horas      | ![][nota10]       |
    
 ---
 ## 🎲 Outros
 | Organização     | Nome                                                       | Descrição                                                                | Ano  |
 | --------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------| ---- |
 | ![][sNS] NASA   | **Hot Ticket**: ![][iUS] [⮚][24]                           | Apoio à primeira missão aeroespacial na superfície solar (Sonda: Probe)  | 2018 |
+| ![][sCP] CPS    | ![][i53] **MOOC - English On-line** ![][iUS]     [⮚][53]   | Conteúdo programático de Inglês EAD                                      | 2020 |
 | ![][sNS] NASA   | **Bording Pass**:<br>Mars 2020 ![][iUS] [⮚][26]            | Apoio ao rover enviado para a superfície de marte em 2020                | 2019 |
 | ![][sNS] NASA   | **Bording Pass**:<br>Future Mars Mission ![][iUS] [⮚][42]  | Apoio à missão aeroespacial na superfície de marte em 2026               | 2020 |
 | ![][sUN] UNIVAP | **Grupo de Estudos**:<br>Ensino Médio [⮚][25]              | Certificado de monitoria nas matérias:<br>• Física<br>• Matemática       | 2017 |
@@ -146,6 +158,18 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas
 [41]: Ciência%20da%20Computação/HTML5%20e%20CSS3/TreinaWeb%20-%20CSS%20-%20Sass.pdf
 [42]: Miscelânea/Nasa%20-%20Future%20Mars%20Mission.pdf
 
+[43]: Biomedicina/Palestra%20-%20CRBM4.pdf
+[44]: Biomedicina/Simpósio%20-%20ABNc.pdf
+[45]: Biomedicina/UNIEURO%202020.pdf
+[46]: Biomedicina/LANF/AVE.pdf
+[47]: Biomedicina/LANF/Tratamento%20AVE.pdf
+[48]: Biomedicina/LANF/Sequelas%20AVE.pdf
+[49]: Biomedicina/LANF/Espasticidade.pdf
+[50]: !%20Palestras/INIC%20WEBINAR%20-%20Técnica%20de%20Caraterização%20-%20Microscopia%20Eletrônica%20de%20Varredura.pdf
+[51]: !%20Palestras/Rocketseat%20-%20Do%20While%202020.pdf
+[52]: !%20Acadêmico/INIC-apresentado-1.pdf
+[53]: !%20Acadêmico/MOOC%20-%20INGLES.pdf
+
 <!-- Competições e Maratonas -->
 [m1]: https://www1.univap.br/wagner/Olimp2017.zip
 [m2]: !%20Maratonas%20e%20Competições/Classificação-OPC2017.pdf
@@ -171,6 +195,11 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas
 [sIJ]: i/inic19.png "INIC Jr."
 [sPM]: i/pim19.png "Postgraduate Institute for Medicine"
 [sDG]: i/duolingo19.png "Duolingo"
+[sRS]: i/rocketseat19.png "Rocketseat"
+[sCP]: i/cps19.png "CPS"
+[sGV]: i/gov19.png "CRBM 4"
+[sUE]: i/unieuro19.png "Unieuro"
+[sAB]: i/ABNc19.png "ABNc"
 
 <!-- Idiomas (exceto português) -->
 [iUS]: i/us19.png "Idioma do curso: Inglês"
@@ -219,3 +248,14 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas
 [i39]: i/i.png "Módulos: &#013; • Introdução &#013; • Números e áreas &#013; • Visão 360º e pesquisas &#013; • Organização e Decisão &#013; • Wireframe &#013; • Princípios de UI &#013; • Leis e Kanban &#013; • Conclusão"
 [i40]: i/i.png "Módulos: &#013; • Introdução &#013; • Versionamento &#013; • Instalação do Git &#013; • Configurações &#013; • Repositórios &#013; • Fluxo de trabalho Básico &#013; • Ignorando e removendo arquivos &#013; • Trabalhando com branches &#013; • Merge &#013; • Rebase &#013; • Histórico de commits &#013; • Estratégias de Branches &#013; • Tags &#013; • Resolvendo conflitos &#013; • Desfazendo alterações &#013; • Recursos do GitHub &#013; • Dicas &#013; • Conclusão"
 [i41]: i/i.png "Módulos: &#013; • Conhecendo o Sass &#013; • Começando com Sass &#013; • SassScript - Tipos de dados e Operações &#013; • SassScript - Programação no CSS &#013; • Mixins &#013; • O poder do @extend &#013; • Metodologias CSS com o poder do Sass &#013; • Conclusão"
+[i43]: i/i.png "Participação na palestra ministrada pelo Biomédico Walace Gomes Leal,"
+[i44]: i/i.png "Dias 12 e 13 de Agosto de 2020, Ouvinte, LAN + LANC + Unoeste"
+[i45]: i/i.png "Mostra científica transmitida online em 01 e 02 de dezembro de 2020"
+[i46]: i/i.png "LANF: Liga Acadêmica Neurofuncional da FCS - UNIVAP"
+[i47]: i/i.png "LANF: Liga Acadêmica Neurofuncional da FCS - UNIVAP"
+[i48]: i/i.png "LANF: Liga Acadêmica Neurofuncional da FCS - UNIVAP"
+[i49]: i/i.png "LANF: Liga Acadêmica Neurofuncional da FCS - UNIVAP"
+[i50]: i/i.png "Congresso de Pesquisa Aplicada e Tecnologia assistindo ao WEBINAR"
+[i51]: i/i.png "Palestras, workshops, painéis e talks sobre o ecossistema de tecnologia."
+[i52]: i/i.png "Apresentação de pesquisa no XXIV Encontro Latino Americano de Iniciação Científica (XXIV INIC)"
+[i53]: i/i.png "Conteúdo programático:  &#013; • Vocabulário inicial sobre Greetings/leave takings &#013; • The alphabet &#013; • Colors &#013; • Days of the week &#013; • Months &#013; • Furniture &#013; • Seasons of the year &#013; • Numbers &#013; • Family &#013; • Nicknames &#013; • Antonyms &#013; • Types of movies."

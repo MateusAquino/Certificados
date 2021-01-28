@@ -12,10 +12,10 @@ As bandeiras ![][iUS] representam cursos no idioma Inglês.
 | ---------------------- | ----------------------------------------------------------------- | -------------------------- |
 | ![][sUN] UNIVAP        | **Aluno Destaque do Curso de Informática**              [⮚][37]   | 2017-2019 (EM)             |
 | ![][sUN] UNIVAP        | **Conclusão do Ensino Médio**                           [⮚][36]   | 16/12/2019                 |
-| ![][sIJ] INIC          | **Neurociência Cognitiva: Hipnose e Sugestionabilidade**[⮚][52]   | 21/10/2020                 |
 | ![][sIJ] INICJr        | **Certificado de Participação do Congresso**            [⮚][29]   | 24/10/2019 <br> 25/10/2019 |
 | ![][sIJ] INICJr        | **Codificador de Estruturas Moleculares**               [⮚][31]   | 25/10/2019                 |
 | ![][sIJ] INICJr        | **Aplicação para Correção Automática de Gabaritos**     [⮚][30]   | 24/10/2019                 |
+| ![][sIJ] INIC          | **Neurociência Cognitiva: Hipnose e Sugestionabilidade**[⮚][52]   | 21/10/2020                 |
 | ![][sDG] Duolingo      | **Duolingo Educator Training Program** ![][iUS]         [⮚][32]   | 01/06/2016                 |
 
 ## 🎓 Cursos 
@@ -57,13 +57,8 @@ As bandeiras ![][iUS] representam cursos no idioma Inglês.
 | ![][sIJ] INIC 2020                           | ![][i50] **Técnica de Caracterização** - Microscopia Eletrônica de Varredura** [⮚][50]  | 2 Horas            | ![][nota8]        |
 | ![][sUE] UNIEURO 2020                        | ![][i45] II Mostra Científica UNIEURO 2020 [⮚][45]                                      | 16 Horas           | ![][nota9]        |
 | ![][sAB] Academia Brasileira de Neurocirurgia| ![][i44] I Simpósio Neuroclínico e Neurocirúrgico do AVE [⮚][44]                        | 12 Horas           | ![][nota9]        |
-| ![][sGB] Conselho Regional de Biomedicina    | ![][i43] **O Biomédico como Neurocientista** - Transplante de células-troncos neurais
- para regenerar a medula espinhal após trauma [⮚][43]                                                                              | 2 Horas            | ![][nota10]        |
-| ![][sUN] LANF (UNIVAP)                       | ![][i47] **Liga Acadêmica Neurofuncional**
-<br>                                             - AVE: Revisão da fisiopatologia [⮚][46]
-<br>                                             - AVE: Tratamento Fisioterapêutico [⮚][47]
-<br>                                             - AVE: Sequelas [⮚][48]
-<br>                                             - Manejo Clínico e Fisioterapêutico da Espasticidade [⮚][49] | 2 Horas<br>2 Horas<br>2 Horas<br>3 Horas      | ![][nota9]        |
+| ![][sGV] Conselho Regional de Biomedicina    | ![][i43] **O Biomédico como Neurocientista** - Transplante de células-troncos neurais para regenerar a medula espinhal após trauma [⮚][43]                                                                                                                                            | 2 Horas            | ![][nota10]        |
+| ![][sUN] LANF (UNIVAP)                       | ![][i47] **Liga Acadêmica Neurofuncional**<br> - AVE: Revisão da fisiopatologia [⮚][46]<br> - AVE: Tratamento Fisioterapêutico [⮚][47]<br> - AVE: Sequelas [⮚][48]<br> - Manejo Clínico e Fisioterapêutico da Espasticidade [⮚][49] | 2 Horas<br>2 Horas<br>2 Horas<br>3 Horas      | ![][nota10]        |
 
 ---
 ## 🥇 Participações em Competições e Maratonas
@@ -103,7 +98,7 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas
 | Organização     | Nome                                                       | Descrição                                                                | Ano  |
 | --------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------| ---- |
 | ![][sNS] NASA   | **Hot Ticket**: ![][iUS] [⮚][24]                           | Apoio à primeira missão aeroespacial na superfície solar (Sonda: Probe)  | 2018 |
-| ![][sCP] CPS    | ![][i53] **MOOC - English On-line** ![][iUS]     [⮚][53]   | Conteúdo programático de Inglês EAD                                      | 2020 |
+| ![][sCP] CPS    | ![][i53] **MOOC: Online English** ![][iUS]     [⮚][53]   | Conteúdo programático de Inglês EAD                                      | 2020 |
 | ![][sNS] NASA   | **Bording Pass**:<br>Mars 2020 ![][iUS] [⮚][26]            | Apoio ao rover enviado para a superfície de marte em 2020                | 2019 |
 | ![][sNS] NASA   | **Bording Pass**:<br>Future Mars Mission ![][iUS] [⮚][42]  | Apoio à missão aeroespacial na superfície de marte em 2026               | 2020 |
 | ![][sUN] UNIVAP | **Grupo de Estudos**:<br>Ensino Médio [⮚][25]              | Certificado de monitoria nas matérias:<br>• Física<br>• Matemática       | 2017 |

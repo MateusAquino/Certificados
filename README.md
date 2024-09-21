@@ -7,16 +7,27 @@ Todas minhas certificações de cursos (+EaDs e Eventos);
 Clique nas setas (**⮚**) para conferir o certificado/comprovante;  
 As bandeiras ![][iUS] representam cursos no idioma Inglês.
 
-## 🏛 Acadêmico / Científico
+## 🏛 Institucional
+
+**Certificados Acadêmicos**
+
 | Órgão emissor          | Certificação                                                      | Data                       |
 | ---------------------- | ----------------------------------------------------------------- | -------------------------- |
-| ![][sUN] UNIVAP        | **Aluno Destaque do Curso de Informática**              [⮚][37]   | 2017-2019 (EM)             |
-| ![][sUN] UNIVAP        | **Conclusão do Ensino Médio**                           [⮚][36]   | 16/12/2019                 |
-| ![][sIJ] INICJr        | **Certificado de Participação do Congresso**            [⮚][29]   | 24/10/2019 <br> 25/10/2019 |
+| ![][sUN] UNIVAP        | **Aluno Destaque do Curso de Informática**              [⮚][37]   | 2017 - 2019 (EM)           |
+| ![][sUN] UNIVAP        | **Diploma do Ensino Médio**                             [⮚][36]   | 2017 - 2019                |
+| ![][sUN] UNIVAP        | **Diploma de Graduação em Biomedicina**                 [⮚][54]   | 2020 - 2024                |
+
+
+**Apresentação (pesquisas)**
+
+| Órgão emissor          | Certificação                                                      | Data                       |
+| ---------------------- | ----------------------------------------------------------------- | -------------------------- |
 | ![][sIJ] INICJr        | **Codificador de Estruturas Moleculares**               [⮚][31]   | 25/10/2019                 |
 | ![][sIJ] INICJr        | **Aplicação para Correção Automática de Gabaritos**     [⮚][30]   | 24/10/2019                 |
 | ![][sIJ] INIC          | **Neurociência Cognitiva: Hipnose e Sugestionabilidade**[⮚][52]   | 21/10/2020                 |
-| ![][sDG] Duolingo      | **Duolingo Educator Training Program** ![][iUS]         [⮚][32]   | 01/06/2016                 |
+| ![][sQL] Qualivitae 21 | **Desenvolvimento de um Software para Gravação e Processamento de Dados de Eletromiografia para Reconhecimento de Comandos e Termos** [⮚][72] | 17/05/2023 |
+| ![][sUN] UNIVAP        | **Interface entre Músculo Esquelético e Computador Utilizando Deep Learning e EMG** [⮚][71] | 16/08/2023 |
+| ![][sIJ] INIC          | **Desenvolvimento de uma Interface de Fala Silenciosa Utilizando Deep Learning, EMG e Processamento de Sinais** [⮚][68] | 10/10/2023 |
 
 ## 🎓 Cursos 
 • `Avaliação Pessoal`: ***minha** opinião sobre o curso ou palestra*;   
@@ -44,6 +55,7 @@ As bandeiras ![][iUS] representam cursos no idioma Inglês.
 | ![][sTW] TreinaWeb | ![][i38] **NPM - Gerenciador de Pacotes**                [⮚][38] | 8 Horas            | ![][nota8]        |
 | ![][sTW] TreinaWeb | ![][i39] **UI/UX - Introdução**                          [⮚][39] | 10 Horas           | ![][nota8]        |
 | ![][sTW] TreinaWeb | ![][i41] **CSS - Sass**                                  [⮚][41] | 6 Horas            | ![][nota10]       |
+| ![][sUD] Udemy     | **Machine Learning, Data Science and Generative AI with Python** ![][iUS] [⮚][75] | 20.5 Horas | ![][nota10] |
 
 ### 🤖 Eletrônica
 | Órgão emissor           | Curso                                                        | Carga horária | Avaliação Pessoal |
@@ -56,9 +68,37 @@ As bandeiras ![][iUS] representam cursos no idioma Inglês.
 | ![][sPM] Postgraduate Institute for Medicine | ![][i33] **SBV – Suporte Básico de Vida - CETS** ![][iUS] [Card][33c][⮚][33]            | *indefinido*       | ![][nota9]        |
 | ![][sIJ] INIC 2020                           | ![][i50] **Técnica de Caracterização** - Microscopia Eletrônica de Varredura [⮚][50]    | 2 Horas            | ![][nota8]        |
 | ![][sUE] UNIEURO 2020                        | ![][i45] II Mostra Científica UNIEURO 2020 [⮚][45]                                      | 16 Horas           | ![][nota9]        |
+| ![][sUN] UNIVAP                              | Curso Extracurricular: Tópicos Avançados em Estética [⮚][55]                   | 12 Horas           | ![][nota8]        |
+| ![][sUN] UNIVAP | Dia do Biomédico: Urgência e Emergência nas Análises Clínicas [⮚][56] | 1 Hora | ![][nota9] |
+| ![][sUN] UNIVAP | Dia do Biomédico: Reprodução Humana Assistida, Genética e Perspectiva para um futuro próximo na área [⮚][57] | 1 Hora | ![][nota6] |
+| ![][sUN] UNIVAP | Dia do Biomédico: Identificação bacteriana em laboratório de microbiologia clínica e detecção dos principais mecanismos de resistência [⮚][59] | 1 Hora | ![][nota8] |
+| ![][sUN] UNIVAP | Dia do Biomédico: Liquorologia laboratorial: Futuro das análises clínicas [⮚][61] | 1 Hora | ![][nota3] |
+| ![][sQL] Qualivitae 19 | Minicurso: Biotecnologia na produção de vacinas [⮚][65] | 2 Horas | ![][nota7] |
+| ![][sQL] Qualivitae 19 | Minicurso: Análises laboratoriais aplicadas aos processos de controle de qualidade [⮚][65] | 2 Horas | ![][nota9] |
+| ![][sQL] Qualivitae 19 | Minicurso: A atuação do Biomédico na Perfusão Extracorpórea [⮚][65] | 2 Horas | ![][nota8] |
+| ![][sQL] Qualivitae 19 | Minicurso: Saúde Mental X Pandemia: os efeitos sobre os profissionais de saúde e a sociedade [⮚][65] | 2 Horas | ![][nota6] |
+| ![][sQL] Qualivitae 19 | Minicurso: Novas Perspectivas da Psiquiatria após a pandemia do COVID-19 [⮚][65] | 2 Horas | ![][nota7] |
+| ![][sQL] Qualivitae 21 | Minicurso: As Novas Áreas de Atuação do Biomédico [⮚][74] | 2 Horas | ![][nota7] |
+| ![][sQL] Qualivitae 21 | Minicurso: Nova Tecnologia no Laboratório de Análises Clínicas [⮚][74] | 2 Horas | ![][nota10] |
+| ![][sQL] Qualivitae 21 | Minicurso: Atuação do Biomédico na Pesquisa e Desenvolvimento [⮚][74] | 2 Horas | ![][nota6] |
+| ![][sQL] Qualivitae 21 | Minicurso: Atuação do Biomédico na Experimentação Animal [⮚][74] | 2 Horas | ![][nota9] |
+| ![][sQL] Qualivitae 21 | Minicurso: Terapia Ortomolecular: Prescrição de Suplementos na Síndrome Metabólica [⮚][74] | 2 Horas | ![][nota4] |
+
+### 🧠 Neuro
+| Órgão emissor                                | Curso                                                                                   | Carga horária      | Avaliação Pessoal |
+| -------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------ | ----------------- |
 | ![][sAB] Academia Brasileira de Neurocirurgia| ![][i44] I Simpósio Neuroclínico e Neurocirúrgico do AVE [⮚][44]                        | 12 Horas           | ![][nota9]        |
-| ![][sGV] Conselho Regional de Biomedicina    | ![][i43] **O Biomédico como Neurocientista** - Transplante de células-troncos neurais para regenerar a medula espinhal após trauma [⮚][43]                                                                                                                                            | 2 Horas            | ![][nota10]        |
-| ![][sUN] LANF (UNIVAP)                       | ![][i47] **Liga Acadêmica Neurofuncional**<br> - AVE: Revisão da fisiopatologia [⮚][46]<br> - AVE: Tratamento Fisioterapêutico [⮚][47]<br> - AVE: Sequelas [⮚][48]<br> - Manejo Clínico e Fisioterapêutico da Espasticidade [⮚][49]                      | 2 Horas<br>2 Horas<br>2 Horas<br>3 Horas      | ![][nota10]        |
+| ![][sGV] Conselho Regional de Biomedicina    | ![][i43] **O Biomédico como Neurocientista** - Transplante de células-troncos neurais para regenerar a medula espinhal após trauma [⮚][43] | 2 Horas            | ![][nota10]        |
+| ![][sLF] LANF                                | ![][i47] **Liga Acadêmica Neurofuncional**<br> - AVE: Revisão da fisiopatologia [⮚][46]<br> - AVE: Tratamento Fisioterapêutico [⮚][47]<br> - AVE: Sequelas [⮚][48]<br> - Manejo Clínico e Fisioterapêutico da Espasticidade [⮚][49]                      | 2 Horas<br>2 Horas<br>2 Horas<br>3 Horas      | ![][nota10]        |
+| ![][sLF] LANF | A importância do treino locomotor e treino de marcha para pacientes com lesão medular [⮚][67] | 2 Horas | ![][nota7] |
+| ![][sUN] UNIVAP | Dia do Biomédico: Papel do Biomédico na Ressonância Magnética [⮚][58] | 1 Hora | ![][nota10] |
+| ![][sUN] UNIVAP | Dia do Biomédico: Atuação do biomédico na pesquisa em imagem [⮚][60] | 1 Hora | ![][nota9] |
+| ![][sCE] CERTRO | Neuroadvance 2 Workshop: Tópicos Básicos de Neuromodulação [⮚][62] | 4 Horas | ![][nota9] |
+| ![][sIS] ISD | VII Simpósio de Neuroengenharia [⮚][63] | 24 Horas | ![][nota10] |
+| ![][sCE] CERTRO | Congresso Online Neuroadvance 2 [⮚][64] | 40 Horas | ![][nota8] |
+| ![][sQL] Qualivitae 19 | Minicurso: Eletroanalgesia: modalidades de TENS [⮚][65] | 2 Horas | ![][nota6] |
+| ![][sQL] Qualivitae 19 | Minicurso: Diagnóstico por imagem como recurso auxiliar em procedimentos [⮚][65] | 2 Horas | ![][nota10] |
+
 
 ---
 ## 🥇 Participações em Competições e Maratonas
@@ -68,7 +108,7 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas
 | --------------- | -------------------------------------- | ----------------------------------------------------- | ---- | --------- |
 | ![][sUN] UNIVAP | **Olimpíada de Programação (OPC X)**   | [OPC X - 2017][m1] [[backup][m2]]             +⠀🥉    | 2017 | 5º Lugar  |
 | ![][sUN] UNIVAP | **Olimpíada de Programação (OPC XI)**  | [Certificado][m3]                             +⠀🥈⠀   | 2018 | 2º Lugar  |
-| ![][sUN] UNIVAP | **Olimpíada de Programação (OPC XII)** | [Certificado][m7]                             +⠀🥇🏆   | 2019 | 1º Lugar  |
+| ![][sUN] UNIVAP | **Olimpíada de Programação (OPC XII)** | [Certificado][m7]                             +⠀🥇🏆  | 2019 | 1º Lugar  |
 | ![][sFE] FEAU   | **Maratona VI Jr.**                    | [Certificado][m4]                             +⠀🥈⠀   | 2017 | 2º Lugar  |
 | ![][sFE] FEAU   | **Maratona VII Jr.**                   | [Ranking - 2018][m5]                                  | 2018 | 10º Lugar |
 | ![][sFE] FEAU   | **Maratona VIII Jr.**                  | [Certificado][m6]                             +⠀🥇⠀   | 2019 | 1º Lugar  |
@@ -95,16 +135,25 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas
    
 ---
 ## 🎲 Outros
-| Organização     | Nome                                                       | Descrição                                                                | Ano  |
-| --------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------| ---- |
-| ![][sNS] NASA   | **Hot Ticket**: ![][iUS] [⮚][24]                           | Apoio à primeira missão aeroespacial na superfície solar (Sonda: Probe)  | 2018 |
-| ![][sCP] CPS    | ![][i53] **MOOC: Online English** ![][iUS]     [⮚][53]   | Conteúdo programático de Inglês EAD                                      | 2020 |
-| ![][sNS] NASA   | **Bording Pass**:<br>Mars 2020 ![][iUS] [⮚][26]            | Apoio ao rover enviado para a superfície de marte em 2020                | 2019 |
-| ![][sNS] NASA   | **Bording Pass**:<br>Future Mars Mission ![][iUS] [⮚][42]  | Apoio à missão aeroespacial na superfície de marte em 2026               | 2020 |
-| ![][sUN] UNIVAP | **Grupo de Estudos**:<br>Ensino Médio [⮚][25]              | Certificado de monitoria nas matérias:<br>• Física<br>• Matemática       | 2017 |
-| ![][sUN] UNIVAP | **Grupo de Estudos**:<br>Ensino Médio [⮚][25]              | Certificado de monitoria nas matérias:<br>• Física<br>• Matemática       | 2018 |
-| ![][sUN] UNIVAP | **Grupo de Estudos**:<br>Ensino Médio [⮚][35]              | Certificado de monitoria na matéria:<br>• Química                        | 2019 |
+| Organização       | Nome                                                       | Descrição                                                                | Ano  |
+| ----------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------| ---- |
+| ![][sNS] NASA     | **Hot Ticket**: ![][iUS]                           [⮚][24] | Apoio à primeira missão aeroespacial na superfície solar (Sonda: Probe)  | 2018 |
+| ![][sCP] CPS      | ![][i53] **MOOC: Online English** ![][iUS]         [⮚][53] | Conteúdo programático de Inglês EAD                                      | 2020 |
+| ![][sDG] Duolingo | **Educator Training Program** ![][iUS]             [⮚][32] | Programa de treinamento educacional do Duolingo                          | 2016 |
+| ![][sNS] NASA     | **Bording Pass**:<br>Mars 2020 ![][iUS]            [⮚][26] | Apoio ao rover enviado para a superfície de marte em 2020                | 2019 |
+| ![][sNS] NASA     | **Bording Pass**:<br>Future Mars Mission ![][iUS]  [⮚][42] | Apoio à missão aeroespacial na superfície de marte em 2026               | 2020 |
+| ![][sUN] UNIVAP   | **Grupo de Estudos**:<br>Ensino Médio              [⮚][25] | Certificado de monitoria nas matérias:<br>• Física<br>• Matemática       | 2017 |
+| ![][sUN] UNIVAP   | **Grupo de Estudos**:<br>Ensino Médio              [⮚][25] | Certificado de monitoria nas matérias:<br>• Física<br>• Matemática       | 2018 |
+| ![][sUN] UNIVAP   | **Grupo de Estudos**:<br>Ensino Médio              [⮚][35] | Certificado de monitoria na matéria:<br>• Química                        | 2019 |
 
+**Certificados de Participação**
+
+| Órgão emissor                                | Descrição                                                                               | Ano  |
+| -------------------------------------------- | --------------------------------------------------------------------------------------- | ---- |
+| ![][sIJ] INICJr        | Certificado de Participação do Congresso            [⮚][29]   | 24 e 25 de outubro de 2019 |
+| ![][sQL] Qualivitae 19 | Certificado de Participação do Congresso de Saúde e Qualidade de Vida do Cone Leste Paulista [⮚][66] | 26 e 28 de maio de 2021 |
+| ![][sQL] Qualivitae 21 | Certificado de Participação do Congresso de Saúde e Qualidade de Vida do Cone Leste Paulista [⮚][73] | 16 e 19 de maio de 2023 |
+| ![][sIJ] INIC | Certificado de Participação XXVII Encontro Latino Americano de Iniciação Científica (XXVII INIC) [⮚][70] | 9, 10 e 11 de outubro de 2023 |
 
 
 <!-- -=- # --- REFERÊNCIAS --- # -=- -->
@@ -165,6 +214,28 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas
 [52]: !%20Acadêmico/INIC-apresentado-1.pdf
 [53]: !%20Acadêmico/MOOC%20-%20INGLES.pdf
 
+[54]: !%20Acadêmico/Univap%20-%20Grad.pdf
+[55]: !%20Numerado/55.pdf
+[56]: !%20Numerado/56.pdf
+[57]: !%20Numerado/57.pdf
+[58]: !%20Numerado/58.pdf
+[59]: !%20Numerado/59.pdf
+[60]: !%20Numerado/60.pdf
+[61]: !%20Numerado/61.pdf
+[62]: !%20Numerado/62.pdf
+[63]: !%20Numerado/63.pdf
+[64]: !%20Numerado/64.pdf
+[65]: !%20Numerado/65.pdf
+[66]: !%20Numerado/66.pdf
+[67]: !%20Numerado/67.pdf
+[68]: !%20Numerado/68.pdf
+[70]: !%20Numerado/70.pdf
+[71]: !%20Numerado/71.pdf
+[72]: !%20Numerado/72.pdf
+[73]: !%20Numerado/73.pdf
+[74]: !%20Numerado/74.pdf
+[75]: !%20Numerado/75.pdf
+
 <!-- Competições e Maratonas -->
 [m1]: https://www1.univap.br/wagner/Olimp2017.zip
 [m2]: !%20Maratonas%20e%20Competições/Classificação-OPC2017.pdf
@@ -195,6 +266,11 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas
 [sGV]: i/gov19.png "CRBM 4"
 [sUE]: i/unieuro19.png "Unieuro"
 [sAB]: i/ABNc.png "ABNc"
+[sLF]: i/lanf.png "LANF"
+[sQL]: i/qualivitae.png "Qualivitae"
+[sIS]: i/isd.png "Instituto Santos Dumont"
+[sCE]: i/certro.png "CERTRO"
+[sUD]: i/udemy.png "Udemy"
 
 <!-- Idiomas (exceto português) -->
 [iUS]: i/us19.png "Idioma do curso: Inglês"

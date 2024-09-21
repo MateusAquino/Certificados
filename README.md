@@ -25,7 +25,7 @@ As bandeiras ![][iUS] representam cursos no idioma Inglês.
 | ![][sIJ] INICJr        | **Codificador de Estruturas Moleculares**               [⮚][31]   | 25/10/2019                 |
 | ![][sIJ] INICJr        | **Aplicação para Correção Automática de Gabaritos**     [⮚][30]   | 24/10/2019                 |
 | ![][sIJ] INIC          | **Neurociência Cognitiva: Hipnose e Sugestionabilidade**[⮚][52]   | 21/10/2020                 |
-| ![][sQL] Qualivitae 21 | **Desenvolvimento de um Software para Gravação e Processamento de Dados de Eletromiografia para Reconhecimento de Comandos e Termos** [⮚][72] | 17/05/2023 |
+| ![][sQL] Qualivitae    | **Desenvolvimento de um Software para Gravação e Processamento de Dados de Eletromiografia para Reconhecimento de Comandos e Termos** [⮚][72] | 17/05/2023 |
 | ![][sUN] UNIVAP        | **Interface entre Músculo Esquelético e Computador Utilizando Deep Learning e EMG** [⮚][71] | 16/08/2023 |
 | ![][sIJ] INIC          | **Desenvolvimento de uma Interface de Fala Silenciosa Utilizando Deep Learning, EMG e Processamento de Sinais** [⮚][68] | 10/10/2023 |
 
@@ -73,16 +73,16 @@ As bandeiras ![][iUS] representam cursos no idioma Inglês.
 | ![][sUN] UNIVAP | Dia do Biomédico: Reprodução Humana Assistida, Genética e Perspectiva para um futuro próximo na área [⮚][57] | 1 Hora | ![][nota6] |
 | ![][sUN] UNIVAP | Dia do Biomédico: Identificação bacteriana em laboratório de microbiologia clínica e detecção dos principais mecanismos de resistência [⮚][59] | 1 Hora | ![][nota8] |
 | ![][sUN] UNIVAP | Dia do Biomédico: Liquorologia laboratorial: Futuro das análises clínicas [⮚][61] | 1 Hora | ![][nota3] |
-| ![][sQL] Qualivitae 19 | Minicurso: Biotecnologia na produção de vacinas [⮚][65] | 2 Horas | ![][nota7] |
-| ![][sQL] Qualivitae 19 | Minicurso: Análises laboratoriais aplicadas aos processos de controle de qualidade [⮚][65] | 2 Horas | ![][nota9] |
-| ![][sQL] Qualivitae 19 | Minicurso: A atuação do Biomédico na Perfusão Extracorpórea [⮚][65] | 2 Horas | ![][nota8] |
-| ![][sQL] Qualivitae 19 | Minicurso: Saúde Mental X Pandemia: os efeitos sobre os profissionais de saúde e a sociedade [⮚][65] | 2 Horas | ![][nota6] |
-| ![][sQL] Qualivitae 19 | Minicurso: Novas Perspectivas da Psiquiatria após a pandemia do COVID-19 [⮚][65] | 2 Horas | ![][nota7] |
-| ![][sQL] Qualivitae 21 | Minicurso: As Novas Áreas de Atuação do Biomédico [⮚][74] | 2 Horas | ![][nota7] |
-| ![][sQL] Qualivitae 21 | Minicurso: Nova Tecnologia no Laboratório de Análises Clínicas [⮚][74] | 2 Horas | ![][nota10] |
-| ![][sQL] Qualivitae 21 | Minicurso: Atuação do Biomédico na Pesquisa e Desenvolvimento [⮚][74] | 2 Horas | ![][nota6] |
-| ![][sQL] Qualivitae 21 | Minicurso: Atuação do Biomédico na Experimentação Animal [⮚][74] | 2 Horas | ![][nota9] |
-| ![][sQL] Qualivitae 21 | Minicurso: Terapia Ortomolecular: Prescrição de Suplementos na Síndrome Metabólica [⮚][74] | 2 Horas | ![][nota4] |
+| ![][sQL] Qualivitae | Minicurso (19): Biotecnologia na produção de vacinas [⮚][65] | 2 Horas | ![][nota7] |
+| ![][sQL] Qualivitae | Minicurso (19): Análises laboratoriais aplicadas aos processos de controle de qualidade [⮚][65] | 2 Horas | ![][nota9] |
+| ![][sQL] Qualivitae | Minicurso (19): A atuação do Biomédico na Perfusão Extracorpórea [⮚][65] | 2 Horas | ![][nota8] |
+| ![][sQL] Qualivitae | Minicurso (19): Saúde Mental X Pandemia: os efeitos sobre os profissionais de saúde e a sociedade [⮚][65] | 2 Horas | ![][nota6] |
+| ![][sQL] Qualivitae | Minicurso (19): Novas Perspectivas da Psiquiatria após a pandemia do COVID-19 [⮚][65] | 2 Horas | ![][nota7] |
+| ![][sQL] Qualivitae | Minicurso (21): As Novas Áreas de Atuação do Biomédico [⮚][74] | 2 Horas | ![][nota7] |
+| ![][sQL] Qualivitae | Minicurso (21): Nova Tecnologia no Laboratório de Análises Clínicas [⮚][74] | 2 Horas | ![][nota10] |
+| ![][sQL] Qualivitae | Minicurso (21): Atuação do Biomédico na Pesquisa e Desenvolvimento [⮚][74] | 2 Horas | ![][nota6] |
+| ![][sQL] Qualivitae | Minicurso (21): Atuação do Biomédico na Experimentação Animal [⮚][74] | 2 Horas | ![][nota9] |
+| ![][sQL] Qualivitae | Minicurso (21): Terapia Ortomolecular: Prescrição de Suplementos na Síndrome Metabólica [⮚][74] | 2 Horas | ![][nota4] |
 
 ### 🧠 Neuro
 | Órgão emissor                                | Curso                                                                                   | Carga horária      | Avaliação Pessoal |
@@ -96,8 +96,8 @@ As bandeiras ![][iUS] representam cursos no idioma Inglês.
 | ![][sCE] CERTRO | Neuroadvance 2 Workshop: Tópicos Básicos de Neuromodulação [⮚][62] | 4 Horas | ![][nota9] |
 | ![][sIS] ISD | VII Simpósio de Neuroengenharia [⮚][63] | 24 Horas | ![][nota10] |
 | ![][sCE] CERTRO | Congresso Online Neuroadvance 2 [⮚][64] | 40 Horas | ![][nota8] |
-| ![][sQL] Qualivitae 19 | Minicurso: Eletroanalgesia: modalidades de TENS [⮚][65] | 2 Horas | ![][nota6] |
-| ![][sQL] Qualivitae 19 | Minicurso: Diagnóstico por imagem como recurso auxiliar em procedimentos [⮚][65] | 2 Horas | ![][nota10] |
+| ![][sQL] Qualivitae | Minicurso (19): Eletroanalgesia: modalidades de TENS [⮚][65] | 2 Horas | ![][nota6] |
+| ![][sQL] Qualivitae | Minicurso (19): Diagnóstico por imagem como recurso auxiliar em procedimentos [⮚][65] | 2 Horas | ![][nota10] |
 
 
 ---
@@ -148,12 +148,12 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas
 
 **Certificados de Participação**
 
-| Órgão emissor                                | Descrição                                                                               | Ano  |
-| -------------------------------------------- | --------------------------------------------------------------------------------------- | ---- |
-| ![][sIJ] INICJr        | Certificado de Participação do Congresso            [⮚][29]   | 24 e 25 de outubro de 2019 |
-| ![][sQL] Qualivitae 19 | Certificado de Participação do Congresso de Saúde e Qualidade de Vida do Cone Leste Paulista [⮚][66] | 26 e 28 de maio de 2021 |
-| ![][sQL] Qualivitae 21 | Certificado de Participação do Congresso de Saúde e Qualidade de Vida do Cone Leste Paulista [⮚][73] | 16 e 19 de maio de 2023 |
-| ![][sIJ] INIC | Certificado de Participação XXVII Encontro Latino Americano de Iniciação Científica (XXVII INIC) [⮚][70] | 9, 10 e 11 de outubro de 2023 |
+| Órgão emissor          | Descrição                                                                                                | Ano                           |
+| ---------------------- | -------------------------------------------------------------------------------------------------------- | ----------------------------- |
+| ![][sIJ] INICJr        | Certificado de Participação do Congresso                                                         [⮚][29] | 24 e 25 de outubro de 2019    |
+| ![][sQL] Qualivitae    | Certificado de Participação do 19° Congresso de Saúde e Qualidade de Vida do Cone Leste Paulista [⮚][66] | 26 e 28 de maio de 2021       |
+| ![][sQL] Qualivitae    | Certificado de Participação do 21° Congresso de Saúde e Qualidade de Vida do Cone Leste Paulista [⮚][73] | 16 e 19 de maio de 2023       |
+| ![][sIJ] INIC          | Certificado de Participação XXVII Encontro Latino Americano de Iniciação Científica (XXVII INIC) [⮚][70] | 9, 10 e 11 de outubro de 2023 |
 
 
 <!-- -=- # --- REFERÊNCIAS --- # -=- -->
